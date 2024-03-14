@@ -1,0 +1,29 @@
+C:\Users\user\Desktop\Homework_Class05\Homework_Exercise2\bin\Debug\net6.0\Homework_Exercise2.exe
+C:\Users\user\Desktop\Homework_Class05\Homework_Exercise2\bin\Debug\net6.0\Homework_Exercise2.deps.json
+C:\Users\user\Desktop\Homework_Class05\Homework_Exercise2\bin\Debug\net6.0\Homework_Exercise2.runtimeconfig.json
+C:\Users\user\Desktop\Homework_Class05\Homework_Exercise2\bin\Debug\net6.0\Homework_Exercise2.dll
+C:\Users\user\Desktop\Homework_Class05\Homework_Exercise2\bin\Debug\net6.0\Homework_Exercise2.pdb
+C:\Users\user\Desktop\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\Homework_Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\Homework_Exercise2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\Homework_Exercise2.AssemblyInfo.cs
+C:\Users\user\Desktop\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\Homework_Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\Homework_Exercise2.dll
+C:\Users\user\Desktop\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\refint\Homework_Exercise2.dll
+C:\Users\user\Desktop\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\Homework_Exercise2.pdb
+C:\Users\user\Desktop\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\Homework_Exercise2.genruntimeconfig.cache
+C:\Users\user\Desktop\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\ref\Homework_Exercise2.dll
+C:\Users\user\Desktop\Seavus\5. C# Basic\CSharp-Homework\Homework_Class05\Homework_Exercise2\bin\Debug\net6.0\Homework_Exercise2.exe
+C:\Users\user\Desktop\Seavus\5. C# Basic\CSharp-Homework\Homework_Class05\Homework_Exercise2\bin\Debug\net6.0\Homework_Exercise2.deps.json
+C:\Users\user\Desktop\Seavus\5. C# Basic\CSharp-Homework\Homework_Class05\Homework_Exercise2\bin\Debug\net6.0\Homework_Exercise2.runtimeconfig.json
+C:\Users\user\Desktop\Seavus\5. C# Basic\CSharp-Homework\Homework_Class05\Homework_Exercise2\bin\Debug\net6.0\Homework_Exercise2.dll
+C:\Users\user\Desktop\Seavus\5. C# Basic\CSharp-Homework\Homework_Class05\Homework_Exercise2\bin\Debug\net6.0\Homework_Exercise2.pdb
+C:\Users\user\Desktop\Seavus\5. C# Basic\CSharp-Homework\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\Homework_Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seavus\5. C# Basic\CSharp-Homework\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\Homework_Exercise2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seavus\5. C# Basic\CSharp-Homework\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\Homework_Exercise2.AssemblyInfo.cs
+C:\Users\user\Desktop\Seavus\5. C# Basic\CSharp-Homework\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\Homework_Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seavus\5. C# Basic\CSharp-Homework\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\Homework_Exercise2.sourcelink.json
+C:\Users\user\Desktop\Seavus\5. C# Basic\CSharp-Homework\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\Homework_Exercise2.dll
+C:\Users\user\Desktop\Seavus\5. C# Basic\CSharp-Homework\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\refint\Homework_Exercise2.dll
+C:\Users\user\Desktop\Seavus\5. C# Basic\CSharp-Homework\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\Homework_Exercise2.pdb
+C:\Users\user\Desktop\Seavus\5. C# Basic\CSharp-Homework\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\Homework_Exercise2.genruntimeconfig.cache
+C:\Users\user\Desktop\Seavus\5. C# Basic\CSharp-Homework\Homework_Class05\Homework_Exercise2\obj\Debug\net6.0\ref\Homework_Exercise2.dll
